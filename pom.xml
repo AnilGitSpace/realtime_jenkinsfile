@@ -2,8 +2,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.gamutgurus</groupId>
-	<artifactId>gamutkart</artifactId>
+	<groupId>com.SVBSKart</groupId>
+	<artifactId>SVBSKart</artifactId>
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 	
@@ -25,7 +25,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>gamutgurus</finalName>
+		<finalName>SVBSKart</finalName>
 	</build>
 	
 </project>

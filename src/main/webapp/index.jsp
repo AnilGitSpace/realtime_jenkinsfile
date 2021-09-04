@@ -27,8 +27,8 @@
 	<div class="container">
 
 		<header>
-			<h1>Gamut Gurus DevOps & Cloud Learning Platform</h1> 
-			<h4>Contact: +91-944897 1000 Email: info@gamutgurus.com</h4> 
+			<h1>SVBS Learning Platform</h1> 
+			<h4>Contact: +91-944897 1000 Email: info@SVBSgurus.com</h4> 
 		</header>
 
 		<div id="tabs">
@@ -88,7 +88,7 @@
 					supported now, Ansible solves configuration problem at a small
 					scale.</p>
 				<p>But when it comes to scaling and complex configurations, of
-					course chef and puppet scores. As long as one is having 3 digits in
+					course chef and puppet shores. As long as one is having 3 digits in
 					the number of servers, ansible looks to be ok and beyond that one
 					has to choose Chef or Puppet.</p>
 			</div>
@@ -101,7 +101,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ 2020 Gamut Gurus Technologies. All rights Reserved.</footer>
+		<footer>@ 2020 SVBS Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
