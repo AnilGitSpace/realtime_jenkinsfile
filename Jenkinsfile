@@ -35,8 +35,8 @@ pipeline {
 				sshpass -p 'svbs' scp /root/.jenkins/workspace/SVBSKart-Pipline/target/SVBSKart.war svbs@172.17.0.3:/home/svbs/apache-tomcat-8.5.70/webapps/
 				sshpass -p 'svbs' ssh svbs@172.17.0.3 "sh /home/svbs/apache-tomcat-8.5.70/bin/shutdown.sh"
 				sshpass -p 'svbs' ssh svbs@172.17.0.3 "sh /home/svbs/apache-tomcat-8.5.70/bin/startup.sh"
+			}
 
-	    	}
 		}
     }
 }
